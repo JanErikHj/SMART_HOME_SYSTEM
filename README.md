@@ -1,2 +1,3 @@
 # SMART_HOME_SYSTEM
-My smart home devices
+
+This will have the documentation and code for my home made Smart Home Devices.
